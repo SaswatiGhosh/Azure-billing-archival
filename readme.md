@@ -13,7 +13,7 @@ This project implements a **cost-optimized serverless architecture** for managin
 
 ## Architecture
 
-![Architecture Diagram](diagrams/architecture-diagram.png)
+![Architecture Diagram](diagrams/architecture.png)
 
 **Flow:**
 
